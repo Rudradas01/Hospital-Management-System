@@ -26,7 +26,7 @@ Programming Language: Java
 
 Database: MySQL (or any relational database)
 
-GUI Framework: Java Swing / JavaFX (if applicable)
+GUI Framework: Java Swing / JavaFX
 
 JDBC: For database connectivity
 
