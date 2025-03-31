@@ -8,7 +8,7 @@ Features
 
 User Authentication: Secure login for doctors, staff, and administrators.
 
-Patient Management: Register new patients, update records, and retrieve patient details.
+Patient Management: Register new patients, update records, and retrieve patient details
 
 Doctor Management: Maintain doctor profiles, schedules, and specialties.
 
