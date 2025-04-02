@@ -54,7 +54,7 @@ Configure the database:
 
 Create a new MySQL database.
 
-Import the provided SQL schema (if available).
+Import the provided SQL schema .
 
 Update database credentials in the JDBC connection file.
 
