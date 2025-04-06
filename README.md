@@ -6,7 +6,7 @@ The Hospital Management System is a Java-based application designed to efficient
 
 Features--
 
-User Authentication: Secure login for doctors, staff, and administrators--
+User Authentication: Secure login for doctors, staff, and administrators-
 
 Patient Management: Register new patients, update records, and retrieve patient details
 
